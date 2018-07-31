@@ -10,15 +10,15 @@
 
 ---
 1. **What** must I change? [(identity)](# "ref")
-  + [ch16](# "ref"): The Adopted *Princess*
+  + The Adopted *Princess* [(ch16)](# "ref")
 1. **Who** will help me? [(leadership)](# "ref")
-  + [ch34](# "ref"): The *Shepherds*
+  + The *Shepherds* [(ch34)](# "ref")
 1. **How** do I change? [(God's work)](# "ref")
-  + [ch36](# "ref"): The *Wanderers*
+  + The *Wanderers* [(ch36)](# "ref")
 1. Am I beyond **hope**? [(new life)](# "ref")
-  + [ch37](# "ref"): The *Dry Bones*
+  + The *Dry Bones* [(ch37)](# "ref")
 1. What if **others** won't change? [(missions)](# "ref")
-  + [ch33](# "ref"): The *Watchman*
+  + The *Watchman* [(ch33)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
