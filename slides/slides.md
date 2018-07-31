@@ -9,6 +9,20 @@
 [###](#/outline "secret")
 
 ---
+<!-- .slide: class="outline" -->
+## Heart Change [(Ezekiel)](# "ref")
+1. The Adopted **Princess** [(ch16)](# "ref")
+  + **What** must I change? *(identity + grace)*
+1. The **Shepherds** [(ch34)](# "ref")
+  + **Who** will help me? *(leadership)*
+1. The **Wanderers** [(ch36)](# "ref")
+  + **How** do I change? *(God's work)*
+1. The **Dry Bones** [(ch37)](# "ref")
+  + Am I beyond **hope**? *(new life)*
+1. The **Watchman** [(ch33)](# "ref")
+  + What if **others** won't change? *(missions)*
+
+---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
 ## The Adopted Princess [(Ez16)](# "ref")
 1. Point **One** [ref](# "ref")
