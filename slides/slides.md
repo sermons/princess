@@ -2,6 +2,11 @@
 # The Adopted Princess
 ## Ezekiel 16 (1/5)
 
+>>>
++ 22a sins
++ 33:10-20 rotting in our sins: turn + live
++ not self-help, own goals, e.g. lose weight
+
 ---
 <!-- .slide: data-background="white" -->
 # **What** must I change?
