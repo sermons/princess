@@ -9,7 +9,6 @@
 [###](#/outline "secret")
 
 ---
-## Heart Change [(Ezekiel)](# "ref")
 1. The Adopted **Princess** [(ch16)](# "ref")
   + *What* must I change? [(identity)](# "ref")
 1. The **Shepherds** [(ch34)](# "ref")
