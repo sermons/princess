@@ -25,7 +25,7 @@
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
 ## The Adopted Princess [(Ez16)](# "ref")
-1. **Born** to No Compassion [(v1-5)](# "ref")
+1. **Born** w/o Compassion [(v1-5)](# "ref")
 1. **Flourishing** Under Covenant [(v6-14)](# "ref")
 1. **Proud** from Blessings [(v15-22)](# "ref")
 1. **Unsatisfied** in Addiction [(v15-22)](# "ref")
