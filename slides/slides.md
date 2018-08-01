@@ -30,7 +30,7 @@
 1. **Proud** Because of Blessings [(v15-22)](# "ref")
 1. **Unsatisfied** in Addiction [(v15-22)](# "ref")
 1. **Destroyed** by Pursuits [(v15-22)](# "ref")
-1. **Forgiven**: with Godly Shame [(v60-63)](# "ref")
+1. **Forgiven** in Godly Shame [(v60-63)](# "ref")
 
 >>>
 1. 4-5
