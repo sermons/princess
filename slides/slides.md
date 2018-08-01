@@ -25,11 +25,11 @@
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
 ## The Adopted Princess [(Ez16)](# "ref")
-1. **Born** Without Receiving Compassion [(v1-5)](# "ref")
+1. **Born** Without Compassion [(v1-5)](# "ref")
 1. **Flourishing** Under the Covenant [(v6-14)](# "ref")
 1. **Proud** Because of Blessings [(v15-22)](# "ref")
 1. **Unsatisfied** in Addiction [(v15-22)](# "ref")
-1. **Unsatisfied** in Addiction [(v15-22)](# "ref")
+1. **Destroyed** by Pursuits [(v15-22)](# "ref")
 1. **Forgiven**: with Godly Shame [(v60-63)](# "ref")
 
 >>>
@@ -38,7 +38,8 @@
 2. 6,8,13-14
 3. 15,17,20-22
 4. 25-26, 28-29
-5. 60,62-63
+5. 37,39,43
+6. 60,62-63
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
