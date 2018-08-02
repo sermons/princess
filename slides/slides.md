@@ -120,9 +120,27 @@ by causing them to pass through the **fire**.
 + values we pass on to children
 
 ---
+You made your beauty **abominable**, <br>
+and you spread your legs to every **passer-by** <br>
+to multiply your harlotry.
+
+[25](# "ref")
+You also played the harlot with the **Egyptians**, <br>
+... Philistines, ... Assyrians, ... Chaldea, <br>
+[29](# "ref")
+yet even with this you were not **satisfied**
+
+[Ezekiel 16:25-29 (NASB)](# "ref")
 
 >>>
-4. 25-26, 28-29
++ addiction
++ crave affirmation
++ no **satisfaction**
+
+---
+
+
+>>>
 5. 37,39,43
 
 ---
