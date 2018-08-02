@@ -138,10 +138,21 @@ yet even with this you were not **satisfied**
 + no **satisfaction**
 
 ---
+Behold, I will gather all your **lovers** <br>
+with whom you took pleasure,
 
+even all those whom you **loved** <br>
+and all those whom you **hated**.
+
+So I will gather them **against** you <br>
+from every direction <br>
+and **expose** your nakedness to them
+
+[Ezekiel 16:37 (NASB)](# "ref")
 
 >>>
-5. 37,39,43
++ strip away clothes, jewels
++ cut to pieces, burn houses
 
 ---
 <!-- .slide: data-background="white" -->
@@ -152,7 +163,31 @@ yet even with this you were not **satisfied**
 
 >>>
 + (skip over comparison w/Samaria+Sodom)
-+ 60,62-63
++ 42 calm My fury
+
+---
+Yet I will remember my covenant <br>
+with you in the days of your youth,
+
+and I will establish for you <br>
+an everlasting covenant.
+
+[Ezekiel 16:60 (NASB)](# "ref")
+
+---
+And you shall **know** that I am the LORD,
+
+[63](#" ref")
+that you may remember and be **confounded**, <br>
+and never open your mouth again <br>
+because of your **shame**,
+
+when I **atone** for you <br>
+for all that you have done
+
+[Ezekiel 16:62-63 (NASB)](# "ref")
+
+>>>
 
 ---
 <!-- .slide: data-background="white" -->
