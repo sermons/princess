@@ -236,7 +236,7 @@ yet even with this you were not **satisfied**
 
 1. Pride in Our Beauty [(v15-22)](# "ref")
 1. Insatiable Addiction [(v23-34)](# "ref")
-1. **Destroyed by What We Pursue** [(v35-43)](# "ref")
+1. **Destroyed by What We Pursue** <br>[(v35-43)](# "ref")
 
 <!-- .element: style="list-style-type: upper-alpha" -->
 
