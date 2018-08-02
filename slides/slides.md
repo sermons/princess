@@ -55,15 +55,20 @@ and saw you **wallowing** in your blood, <br>
 I said to you in your blood, ‘**Live!**’<br>
 I said to you in your blood, ‘Live!’
 
-[7](# "ref")
+[Ezekiel 16:6 (ESV)](# "ref")
+
+>>>
++ Lo-Ruhamah
+
+---
 I made you **flourish** like a plant of the field.<br>
 And you grew up and became tall <br>
 and arrived at **full adornment**.
 
-[Ezekiel 16:6-7 (ESV)](# "ref")
+[Ezekiel 16:7 (ESV)](# "ref")
 
 >>>
-+ Lo-Ruhamah
++ 
 
 ---
 You were **adorned** with gold and silver, <br>
