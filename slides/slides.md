@@ -5,13 +5,6 @@
 >>>
 + 22a sins
 + 33:10-20 rotting in our sins: turn + live
-+ not self-help, own goals, e.g. lose weight
-
----
-<!-- .slide: data-background="white" -->
-# **What** must I change?
-
-[###](#/outline "secret")
 
 ---
 
@@ -21,6 +14,16 @@
 | 3. **How** do I change? | <small>[ch36:](# "ref") *Wanderers* [(God's work)](# "ref")</small> |
 | 4. Am I beyond **hope**? | <small>[ch37:](# "ref") *Dry Bones* [(new life)](# "ref")</small> |
 | 5. If **others** won't change? | <small>[ch33:](# "ref") *Watchman* [(missions)](# "ref")</small> |
+
+---
+<!-- .slide: data-background="white" -->
+# **What** must I change?
+
+[###](#/outline "secret")
+
+>>>
++ not self-help, own goals, e.g. lose weight
++ what God **tells** us we need to change
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
@@ -48,19 +51,34 @@ but you were **cast out** on the open field
 [Ezekiel 16:4,5 (ESV)](# "ref")
 
 >>>
-+ Hosea: **Lo-Ruhamah**, not having received compassion
-+ for you were **abhorred**
++ **default** condition of mankind:
++ **helpless**, dependent
+  + try to **build** happy life for self
+  + but **fail** completely
++ no one has **pity** / mercy
+  + Hosea: **Lo-Ruhamah**, not having received compassion
++ "cast out": **unwanted** baby
+  + for you were **abhorred**
++ blood/muck: **failures**, selfishness, anger, lust
+  + others **see** only our character **flaws**
+  + and **despise** us for them
++ what did **God** see?
 
 ---
 And when I passed by you <br>
-and saw you **wallowing** in your blood, <br>
+and saw you **wallowing** in your blood,
+
 I said to you in your blood, ‘**Live!**’<br>
 I said to you in your blood, ‘Live!’
 
 [Ezekiel 16:6 (ESV)](# "ref")
 
 >>>
-+ grew + flourished like plant
++ "wallow": kick, **trample**
+  + we too **hate** our own flaws
+  + but futile, kicking in blood
++ God **adopted** us, washed, gave us **life**
++ grew + **flourished** like plant
 
 ---
 You were **adorned** with gold and silver, <br>
@@ -77,19 +95,48 @@ that I had **bestowed** on you
 [Ezekiel 16:13-14 (ESV)](# "ref")
 
 >>>
-+ blessings from God
++ blessings from God: **home**, family, stability, recognition
+  + virtues: **patience**, generosity, hospit
++ all these were **bestowed** by God
+  + not **earned** by own efforts
++ **princess**: bc of our Father
 
 ---
 <!-- .slide: data-background="white" -->
-# Have I mistaken God's **blessing** for God's **approval**?
-
----
-# outline 2
+# Have I mistaken God's **grace** for God's **approval**?
 
 >>>
-1. **Proud** from Blessings [(v15-22)](# "ref")
-1. **Unsatisfied** in Addiction [(v23-34)](# "ref")
-1. **Destroyed** by Pursuits [(v35-43)](# "ref")
++ yes, we are richly **blessed**
++ **not** bc God approves of our behaviour!
++ bc of our utter **inability** to save selves
+
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+## The Adopted Princess [(Ez16)](# "ref")
+1. Flourishing Under Covenant [(v1-14)](# "ref")
+1. **Fallen in Pride** [(v15-22) (v23-34) (v35-43)](# "ref")
+1. Forgiven in Godly Shame [(v60-63)](# "ref")
+
+>>>
++ same as **Judges** cycle:
+  + **rescued** + blessed by God
+  + **proud**, forget God
+  + **chastened** / humbled
+  + **redeemed** as we repent
++ our **downfall** comes in 3 parts:
+
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+## 2. Fallen in Pride [(v15-43)](# "ref")
+A. **Pride** in Our Beauty [(v15-22)](# "ref")
+B. Insatiable **Addiction** [(v23-34)](# "ref")
+C. **Destroyed** by What We Pursue [(v35-43)](# "ref")
+
+>>>
+1. trust in own **success**
+2. crave **affirmation**, recognition
+3. those whose attention we **seek**
+  + **turn** against us
 
 ---
 But you **trusted** in your beauty <br>
@@ -106,8 +153,18 @@ that you might play the harlot with them.
 [Ezekiel 16:15,17 (NASB)](# "ref")
 
 >>>
-+ pride
-+ pursue gift rather than giver
++ pride in **image**: beautiful
+  + **house**, garden, wife, kids
+  + kids doing well in **school**
+  + on-track to good **career**
+  + always **hospitable**, generous
+  + always **happy** + positive
++ pursue **gift** rather than giver
++ **harlot**: exchange priceless **treasure** for base **gain**
+  + treasure is **not** the blessings
+  + but our **purity** / holiness
++ not only impacts **selves**,
+  + also the next **generation**:
 
 ---
 You slaughtered **My children** <br>
@@ -117,7 +174,12 @@ by causing them to pass through the **fire**.
 [Ezekiel 16:21 (NASB)](# "ref")
 
 >>>
-+ values we pass on to children
++ **values** / priorities we live by
+  + pass on to **children**
++ "just be **happy** and do well in **school**"
+  + &rArr; prize **comfort** + success
++ but we don't teach them greatest **prize**:
+  + to **know** Christ
 
 ---
 You made your beauty **abominable**, <br>
@@ -157,7 +219,7 @@ and **expose** your nakedness to them
 
 ---
 <!-- .slide: data-background="white" -->
-# Have God's **blessings** become **idols** to me?
+# What God-given **beauty** has become an **idol** to me?
 
 >>>
 1. **Proud** from Blessings [(v15-22)](# "ref")
