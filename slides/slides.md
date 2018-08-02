@@ -33,6 +33,7 @@
 1. **Forgiven** in Godly Shame [(v60-63)](# "ref")
 
 >>>
++ (skip over comparison w/Samaria+Sodom)
 + first remember who we **are**
 + take for granted God's **blessings**
   + as though **entitled** to them
@@ -133,7 +134,7 @@ that I had **bestowed** on you
 1. Insatiable **Addiction** [(v23-34)](# "ref")
 1. **Destroyed** by What We Pursue [(v35-43)](# "ref")
 
-<!-- .element: type="A" -->
+<!-- .element: style="list-style-type: upper-alpha" -->
 
 >>>
 1. trust in own **success**
@@ -159,7 +160,7 @@ that you might play the harlot with them.
 + pride in **image**: beautiful
   + **house**, garden, wife, kids
   + kids doing well in **school**
-  + on-track to good **career**
+  + on-track to good **career**, work-life
   + always **hospitable**, generous
   + always **happy** + positive
 + pursue **gift** rather than giver
@@ -195,10 +196,6 @@ by causing them to pass through the **fire**.
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
 ## 2. Fallen in Pride [(v15-43)](# "ref")
-
-1. Pride in Our Beauty [(v15-22)](# "ref")
-1. **Insatiable Addiction** [(v23-34)](# "ref")
-1. Destroyed by What We Pursue [(v35-43)](# "ref")
 
 ---
 You made your beauty **abominable**, <br>
@@ -241,8 +238,19 @@ and **expose** your nakedness to them
 [Ezekiel 16:37 (NASB)](# "ref")
 
 >>>
-+ strip away clothes, jewels
-+ cut to pieces, burn houses
++ **lovers**: those I crave **affirmation** from
+  + the **rich** / powerful
+  + perfect **house** / cake / kids' clothes
+  + those we thought were our **friends**
+  + even our own **parents**
++ some we **love**, some we **hate**
++ God's **chastening**:
+  + strip away clothes, jewels
+  + reveal how **broken** we truly are
++ v39-41 when they **see** us as we are
+  + **take** what they can from us
+  + **cut** to pieces, burn houses
++ bc their affirmation was not **perfect love**
 
 ---
 <!-- .slide: data-background="white" -->
@@ -257,8 +265,9 @@ and **expose** your nakedness to them
 # outline 3
 
 >>>
-+ (skip over comparison w/Samaria+Sodom)
-+ 42 calm My fury
++ God already knows the **naked** me
++ when He **sees** me, He remembers
+  + His **covenant** of love:
 
 ---
 Yet I will **remember** my covenant <br>
@@ -268,6 +277,13 @@ and I will **establish** for you <br>
 an everlasting covenant.
 
 [Ezekiel 16:60 (ESV)](# "ref")
+
+>>>
++ not bc we are **worthy**
+  + successful, hard-working, beautiful
+  + volunteer at church, generous, hospit
++ **why** redeem us?
+  + constant **theme** in Ezekiel:
 
 ---
 And you shall **know** that I am the LORD,
@@ -283,6 +299,11 @@ for all that you have done
 [Ezekiel 16:62-63 (ESV)](# "ref")
 
 >>>
++ remember He is **holy** + faithful
+  + **just** in His judgments
+    + (kid: "not fair!")
++ Godly **shame**: opposite of proud
+  + "confounded": **pale**, shame
 
 ---
 <!-- .slide: data-background="white" -->
