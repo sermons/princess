@@ -59,16 +59,7 @@ I said to you in your blood, ‘Live!’
 
 >>>
 + Lo-Ruhamah
-
----
-I made you **flourish** like a plant of the field.<br>
-And you grew up and became tall <br>
-and arrived at **full adornment**.
-
-[Ezekiel 16:7 (ESV)](# "ref")
-
->>>
-+ 
++ grew + flourished like plant
 
 ---
 You were **adorned** with gold and silver, <br>
