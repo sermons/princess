@@ -28,8 +28,8 @@
 1. **Born** w/o Compassion [(v1-5)](# "ref")
 1. **Flourishing** Under Covenant [(v6-14)](# "ref")
 1. **Proud** from Blessings [(v15-22)](# "ref")
-1. **Unsatisfied** in Addiction [(v15-22)](# "ref")
-1. **Destroyed** by Pursuits [(v15-22)](# "ref")
+1. **Unsatisfied** in Addiction [(v23-34)](# "ref")
+1. **Destroyed** by Pursuits [(v35-43)](# "ref")
 1. **Forgiven** in Godly Shame [(v60-63)](# "ref")
 
 >>>
@@ -39,6 +39,7 @@
 3. 15,17,20-22
 4. 25-26, 28-29
 5. 37,39,43
+  + (skip over comparison w/Samaria+Sodom)
 6. 60,62-63
 
 ---
