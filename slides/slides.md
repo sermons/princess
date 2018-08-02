@@ -15,12 +15,12 @@
 
 ---
 
-| 1. **What** must I change? [(identity)](# "ref") | The Adopted *Princess* [(ch16)](# "ref") |
+| 1. **What** must I change? | <small>[ch16:](# "ref") *Princess* [(identity)](# "ref")</small> |
 | --- | --- |
-| 2. **Who** will help me? [(leadership)](# "ref") | The *Shepherds* [(ch34)](# "ref") |
-| 3. **How** do I change? <br>[(God's work)](# "ref") | The *Wanderers* [(ch36)](# "ref") |
-| 4. Am I beyond **hope**? [(new life)](# "ref") | The *Dry Bones* [(ch37)](# "ref") |
-| 5. What if **others** won't change? [(missions)](# "ref") | The *Watchman* [(ch33)](# "ref") |
+| 2. **Who** will help me? | <small>[ch34:](# "ref") *Shepherds* [(leadership)](# "ref")</small> |
+| 3. **How** do I change? | <small>[ch36:](# "ref") *Wanderers* [(God's work)](# "ref")</small> |
+| 4. Am I beyond **hope**? | <small>[ch37:](# "ref") *Dry Bones* [(new life)](# "ref")</small> |
+| 5. If **others** won't change? | <small>[ch33:](# "ref") *Watchman* [(missions)](# "ref")</small> |
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
@@ -30,8 +30,9 @@
 1. **Forgiven** in Godly Shame [(v60-63)](# "ref")
 
 >>>
-+ born w/o compassion (v1-5)
-+ flourishing under God's covenant (v6-14)
++ first remember who we **are**
++ take for granted God's **blessings**
+  + as though **entitled** to them
 
 ---
 On the day you were **born** <br>
@@ -47,6 +48,7 @@ but you were **cast out** on the open field
 [Ezekiel 16:4,5 (ESV)](# "ref")
 
 >>>
++ Hosea: **Lo-Ruhamah**, not having received compassion
 + for you were **abhorred**
 
 ---
@@ -58,7 +60,6 @@ I said to you in your blood, ‘Live!’
 [Ezekiel 16:6 (ESV)](# "ref")
 
 >>>
-+ Lo-Ruhamah
 + grew + flourished like plant
 
 ---
