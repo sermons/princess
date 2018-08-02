@@ -29,7 +29,7 @@
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
 ## The Adopted Princess [(Ez16)](# "ref")
 1. **Flourishing** Under Covenant [(v1-14)](# "ref")
-1. **Fallen** in Pride [(v15-22) (v23-34) (v35-43)](# "ref")
+1. **Fallen** in Pride [(v15-43)](# "ref")
 1. **Forgiven** in Godly Shame [(v60-63)](# "ref")
 
 >>>
@@ -115,7 +115,7 @@ that I had **bestowed** on you
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
 ## The Adopted Princess [(Ez16)](# "ref")
 1. Flourishing Under Covenant [(v1-14)](# "ref")
-1. **Fallen in Pride** [(v15-22) (v23-34) (v35-43)](# "ref")
+1. **Fallen in Pride** [(v15-43)](# "ref")
 1. Forgiven in Godly Shame [(v60-63)](# "ref")
 
 >>>
@@ -197,6 +197,12 @@ by causing them to pass through the **fire**.
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
 ## 2. Fallen in Pride [(v15-43)](# "ref")
 
+1. Pride in Our Beauty [(v15-22)](# "ref")
+1. **Insatiable Addiction** [(v23-34)](# "ref")
+1. Destroyed by What We Pursue [(v35-43)](# "ref")
+
+<!-- .element: style="list-style-type: upper-alpha" -->
+
 ---
 You made your beauty **abominable**, <br>
 and you spread your legs to every **passer-by** <br>
@@ -223,6 +229,16 @@ yet even with this you were not **satisfied**
 + crave **affirmation**, recognition
   + **tell** me I'm a **good** person
 + **addiction**: unable to satisfy
+
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+## 2. Fallen in Pride [(v15-43)](# "ref")
+
+1. Pride in Our Beauty [(v15-22)](# "ref")
+1. Insatiable Addiction [(v23-34)](# "ref")
+1. **Destroyed by What We Pursue** [(v35-43)](# "ref")
+
+<!-- .element: style="list-style-type: upper-alpha" -->
 
 ---
 Behold, I will gather all your **lovers** <br>
@@ -262,7 +278,11 @@ and **expose** your nakedness to them
 1. **Destroyed** by Pursuits [(v35-43)](# "ref")
 
 ---
-# outline 3
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+## The Adopted Princess [(Ez16)](# "ref")
+1. Flourishing Under Covenant [(v1-14)](# "ref")
+1. Fallen in Pride [(v15-43)](# "ref")
+1. **Forgiven in Godly Shame** [(v60-63)](# "ref")
 
 >>>
 + God already knows the **naked** me
