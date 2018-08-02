@@ -30,14 +30,66 @@
 1. **Forgiven** in Godly Shame [(v60-63)](# "ref")
 
 >>>
-1. **Born** w/o Compassion [(v1-5)](# "ref")
++ born w/o compassion (v1-5)
++ flourishing under God's covenant (v6-14)
+
+---
+On the day you were **born** your cord was not **cut**, <br>
+nor were you **washed** with water to cleanse you
+
+No eye **pitied** you, to do any of these things  <br>
+to you out of **compassion** for you,
+
+but you were **cast out** on the open field,  <br>
+for you were **abhorred**,  <br>
+on the day that you were born.
+
+[Ezekiel 16:5 (ESV)](# "ref")
+
+---
+And when I passed by you <br>
+and saw you **wallowing** in your blood, <br>
+I said to you in your blood, ‘**Live!**’<br>
+I said to you in your blood, ‘Live!’
+
+[7](# "ref")
+I made you **flourish** like a plant of the field.<br>
+And you grew up and became tall <br>
+and arrived at **full adornment**.
+
+[Ezekiel 16:6-7 (ESV)](# "ref")
+
+>>>
++ Lo-Ruhamah
+
+---
+You were **adorned** with gold and silver, <br>
+You grew exceedingly **beautiful** and advanced to **royalty**.
+
+Your **renown** went forth among the nations <br>
+because of your **beauty**,
+
+for it was perfect through the **splendor** <br>
+that I had **bestowed** on you
+
+[Ezekiel 16:13-14 (ESV)](# "ref")
+
+>>>
++ blessings from God
+
+---
+<!-- .slide: data-background="white" -->
+# Have I mistaken God's **blessing** for God's **approval**?
+
+---
+# outline 2
+
+>>>
 1. **Proud** from Blessings [(v15-22)](# "ref")
 1. **Unsatisfied** in Addiction [(v23-34)](# "ref")
 1. **Destroyed** by Pursuits [(v35-43)](# "ref")
 1. **Forgiven** in Godly Shame [(v60-63)](# "ref")
 
-1. 4-5
-  + Lo-Ruhamah
 2. 6,8,13-14
 3. 15,17,20-22
 4. 25-26, 28-29
