@@ -34,18 +34,20 @@
 + flourishing under God's covenant (v6-14)
 
 ---
-On the day you were **born** your cord was not **cut**, <br>
+On the day you were **born** <br>
+your cord was not **cut**, <br>
 nor were you **washed** with water to cleanse you
 
 [5](# "ref")
 No eye **pitied** you, to do any of these things  <br>
 to you out of **compassion** for you,
 
-but you were **cast out** on the open field,  <br>
-for you were **abhorred**,  <br>
-on the day that you were born.
+but you were **cast out** on the open field
 
 [Ezekiel 16:4,5 (ESV)](# "ref")
+
+>>>
++ for you were **abhorred**
 
 ---
 And when I passed by you <br>
@@ -65,7 +67,8 @@ and arrived at **full adornment**.
 
 ---
 You were **adorned** with gold and silver, <br>
-You grew exceedingly **beautiful** and advanced to **royalty**.
+You grew exceedingly **beautiful** <br>
+and advanced to **royalty**.
 
 [14](# "ref")
 Your **renown** went forth among the nations <br>
@@ -125,8 +128,9 @@ and you spread your legs to every **passer-by** <br>
 to multiply your harlotry.
 
 [25](# "ref")
-You also played the harlot with the **Egyptians**, <br>
-... Philistines, ... Assyrians, ... Chaldea, <br>
+You also played the harlot with <br>
+the **Egyptians**, ... Philistines, <br>
+... Assyrians, ... Chaldea, <br>
 [29](# "ref")
 yet even with this you were not **satisfied**
 
@@ -177,7 +181,7 @@ with you in the days of your youth,
 and I will **establish** for you <br>
 an everlasting covenant.
 
-[Ezekiel 16:60 (NASB)](# "ref")
+[Ezekiel 16:60 (ESV)](# "ref")
 
 ---
 And you shall **know** that I am the LORD,
@@ -190,7 +194,7 @@ because of your **shame**,
 when I **atone** for you <br>
 for all that you have done
 
-[Ezekiel 16:62-63 (NASB)](# "ref")
+[Ezekiel 16:62-63 (ESV)](# "ref")
 
 >>>
 
