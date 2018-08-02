@@ -26,7 +26,7 @@
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
 ## The Adopted Princess [(Ez16)](# "ref")
 1. **Flourishing** Under Covenant [(v1-14)](# "ref")
-1. **Fallen** in Pride [(v15-59)](# "ref")
+1. **Fallen** in Pride [(v15-22) (v23-34) (v35-43)](# "ref")
 1. **Forgiven** in Godly Shame [(v60-63)](# "ref")
 
 >>>
@@ -156,7 +156,12 @@ and **expose** your nakedness to them
 
 ---
 <!-- .slide: data-background="white" -->
-# Q2
+# Have God's **blessings** become **idols** to me?
+
+>>>
+1. **Proud** from Blessings [(v15-22)](# "ref")
+1. **Unsatisfied** in Addiction [(v23-34)](# "ref")
+1. **Destroyed** by Pursuits [(v35-43)](# "ref")
 
 ---
 # outline 3
@@ -166,10 +171,10 @@ and **expose** your nakedness to them
 + 42 calm My fury
 
 ---
-Yet I will remember my covenant <br>
+Yet I will **remember** my covenant <br>
 with you in the days of your youth,
 
-and I will establish for you <br>
+and I will **establish** for you <br>
 an everlasting covenant.
 
 [Ezekiel 16:60 (NASB)](# "ref")
@@ -191,7 +196,7 @@ for all that you have done
 
 ---
 <!-- .slide: data-background="white" -->
-# Q3
+# What has God **forgiven** me of?
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
