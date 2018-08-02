@@ -128,9 +128,10 @@ that I had **bestowed** on you
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
 ## 2. Fallen in Pride [(v15-43)](# "ref")
-A. **Pride** in Our Beauty [(v15-22)](# "ref")
-B. Insatiable **Addiction** [(v23-34)](# "ref")
-C. **Destroyed** by What We Pursue [(v35-43)](# "ref")
+
+A.  **Pride** in Our Beauty [(v15-22)](# "ref")
+B.  Insatiable **Addiction** [(v23-34)](# "ref")
+C.  **Destroyed** by What We Pursue [(v35-43)](# "ref")
 
 >>>
 1. trust in own **success**
