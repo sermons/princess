@@ -129,9 +129,11 @@ that I had **bestowed** on you
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
 ## 2. Fallen in Pride [(v15-43)](# "ref")
 
-A.  **Pride** in Our Beauty [(v15-22)](# "ref")
-B.  Insatiable **Addiction** [(v23-34)](# "ref")
-C.  **Destroyed** by What We Pursue [(v35-43)](# "ref")
+1. **Pride** in Our Beauty [(v15-22)](# "ref")
+1. Insatiable **Addiction** [(v23-34)](# "ref")
+1. **Destroyed** by What We Pursue [(v35-43)](# "ref")
+
+<!-- .element: type="A" -->
 
 >>>
 1. trust in own **success**
@@ -175,12 +177,28 @@ by causing them to pass through the **fire**.
 [Ezekiel 16:21 (NASB)](# "ref")
 
 >>>
++ kids are **God's** kids, not mine
+  + in my **pursuit** of success, happiness
+  + I **sacrifice** them
 + **values** / priorities we live by
   + pass on to **children**
 + "just be **happy** and do well in **school**"
   + &rArr; prize **comfort** + success
 + but we don't teach them greatest **prize**:
   + to **know** Christ
+  + pure + **childlike** faith
++ some kids will **rebel**
+  + see the **hypocrisy**
++ some will **internalise** same values
+  + pursue comfort + success
+
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+## 2. Fallen in Pride [(v15-43)](# "ref")
+
+1. Pride in Our Beauty [(v15-22)](# "ref")
+1. **Insatiable Addiction** [(v23-34)](# "ref")
+1. Destroyed by What We Pursue [(v35-43)](# "ref")
 
 ---
 You made your beauty **abominable**, <br>
@@ -197,9 +215,17 @@ yet even with this you were not **satisfied**
 [Ezekiel 16:25-29 (NASB)](# "ref")
 
 >>>
-+ addiction
-+ crave affirmation
-+ no **satisfaction**
++ beauty **unfulfilling** if no **beholder**
++ e.g., entertain **guests** so they can
+  + admire my **hospitality**
++ e.g., do church/volunteer work so others
+  + affirm my **charity**
++ culture of **busyness**:
+  + feel **needed**
+  + deny being **lazy** / dependent
++ crave **affirmation**, recognition
+  + **tell** me I'm a **good** person
++ **addiction**: unable to satisfy
 
 ---
 Behold, I will gather all your **lovers** <br>
