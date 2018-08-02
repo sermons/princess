@@ -37,6 +37,7 @@
 On the day you were **born** your cord was not **cut**, <br>
 nor were you **washed** with water to cleanse you
 
+[5](# "ref")
 No eye **pitied** you, to do any of these things  <br>
 to you out of **compassion** for you,
 
@@ -44,7 +45,7 @@ but you were **cast out** on the open field,  <br>
 for you were **abhorred**,  <br>
 on the day that you were born.
 
-[Ezekiel 16:5 (ESV)](# "ref")
+[Ezekiel 16:4,5 (ESV)](# "ref")
 
 ---
 And when I passed by you <br>
@@ -66,6 +67,7 @@ and arrived at **full adornment**.
 You were **adorned** with gold and silver, <br>
 You grew exceedingly **beautiful** and advanced to **royalty**.
 
+[14](# "ref")
 Your **renown** went forth among the nations <br>
 because of your **beauty**,
 
@@ -88,14 +90,55 @@ that I had **bestowed** on you
 1. **Proud** from Blessings [(v15-22)](# "ref")
 1. **Unsatisfied** in Addiction [(v23-34)](# "ref")
 1. **Destroyed** by Pursuits [(v35-43)](# "ref")
-1. **Forgiven** in Godly Shame [(v60-63)](# "ref")
 
-2. 6,8,13-14
-3. 15,17,20-22
+---
+But you **trusted** in your beauty <br>
+and played the **harlot** because of your fame
+
+[17](# "ref")
+You also took your beautiful **jewels** <br>
+made of **My gold** and of My silver, <br>
+which I had **given** you,
+
+and made for yourself male **images** <br>
+that you might play the harlot with them.
+
+[Ezekiel 16:15,17 (NASB)](# "ref")
+
+>>>
++ pride
++ pursue gift rather than giver
+
+---
+You slaughtered **My children** <br>
+and offered them up to **idols** <br>
+by causing them to pass through the **fire**.
+
+[Ezekiel 16:21 (NASB)](# "ref")
+
+>>>
++ values we pass on to children
+
+---
+
+>>>
 4. 25-26, 28-29
 5. 37,39,43
-  + (skip over comparison w/Samaria+Sodom)
-6. 60,62-63
+
+---
+<!-- .slide: data-background="white" -->
+# Q2
+
+---
+# outline 3
+
+>>>
++ (skip over comparison w/Samaria+Sodom)
++ 60,62-63
+
+---
+<!-- .slide: data-background="white" -->
+# Q3
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
