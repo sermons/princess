@@ -310,7 +310,7 @@ and **expose** your nakedness to them
 
 ---
 <!-- .slide: data-background="white" -->
-# What **beauty** has become an **idol** to me?
+# What **beauty** <br>has become an **idol** to me?
 
 >>>
 + **blessings** from God: success, virtue, generosity
