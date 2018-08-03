@@ -76,8 +76,8 @@ I said to you in your blood, ‘Live!’
 
 >>>
 + "wallow": kick, **trample**
-  + we too **hate** our own flaws
-  + but futile, kicking in blood
+  + **hate** own flaws
+  + futile, kicking in blood
 + God **adopted** us, washed, gave us **life**
 + grew + **flourished** like plant
 
@@ -149,6 +149,15 @@ and played the **harlot** because of your fame
 [Ezekiel 16:15 (NASB)](# "ref")
 
 >>>
++ aside re **slut-shaming**: assumes
+  + morality **socially** constructed
+  + decide for **self** right/wrong for own sexuality
+  + problem is **shame**, so
+  + get **rid** of shame
+  + w/o **changing** behaviour
++ but shame is **not** the problem
+  + **sin** is
+  + what is our **sin** that we need to change? 
 + pride in **image**: beautiful
   + **house**, garden, wife, kids
   + kids doing well in **school**
@@ -332,6 +341,13 @@ for all that you have done
     + (kid: "not fair!")
 + Godly **shame**: opposite of proud
   + "confounded": **pale**, shame
++ not **paralysed** by self-**doubt**
+  + **fear** of failing again
++ not **revel** in self-**pity**
+  + flagellation, atone for **self**
++ not **rejecting** the shame
+  + **ack** our wrongdoing
++ (Romans 5:8?)
 
 ---
 When I kept **silent**, my bones **wasted away** <br>
@@ -353,6 +369,12 @@ and you **forgave** the iniquity of my sin.
 ---
 <!-- .slide: data-background="white" -->
 # What has God **forgiven** me of?
+
+>>>
++ **godly** shame that leads to
++ **repentance**: change of heart
++ with **assurance** that
+  + Christ has **atoned**
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
