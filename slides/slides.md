@@ -1,12 +1,15 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-7vpzXF-wHko-princess_field.jpg") %> id="title" -->
+
 # The Adopted Princess
 ## Ezekiel 16 (1/5)
+[Suchawa, Poland](https://unsplash.com/photos/7vpzXF-wHko "caption")
 
 >>>
 + 22a sins
 + 33:10-20 rotting in our sins: turn + live
 
 ---
+<!-- .slide: <%= bg("unsplash-sp-p7uuT0tw-dark_forest.jpg") %> id="series" -->
 
 | 1. **What** must I change? | <small>[ch16:](# "ref") *Princess* [(identity)](# "ref")</small> |
 | --- | --- |
@@ -14,6 +17,8 @@
 | 3. **How** do I change? | <small>[ch36:](# "ref") *Wanderers* [(God's work)](# "ref")</small> |
 | 4. Am I beyond **hope**? | <small>[ch37:](# "ref") *Dry Bones* [(new life)](# "ref")</small> |
 | 5. If **others** won't change? | <small>[ch33:](# "ref") *Watchman* [(missions)](# "ref")</small> |
+
+[Bad Pyrmont, Germany.  Sebastian Unrau](https://unsplash.com/photos/sp-p7uuT0tw "caption")
 
 ---
 <!-- .slide: data-background="white" -->
@@ -26,7 +31,7 @@
 + what God **tells** us we need to change
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
+<!-- .slide: <%= bg("unsplash-7vpzXF-wHko-princess_field.jpg") %> id="outline" class="outline" -->
 ## The Adopted Princess [(Ez16)](# "ref")
 1. **Flourishing** Under Covenant [(v1-14)](# "ref")
 1. **Fallen** in Pride [(v15-43)](# "ref")
@@ -112,7 +117,7 @@ that I had **bestowed** on you
 + bc of our utter **inability** to save selves
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-7vpzXF-wHko-princess_field.jpg") %> class="outline" -->
 ## The Adopted Princess [(Ez16)](# "ref")
 1. Flourishing Under Covenant [(v1-14)](# "ref")
 1. **Fallen in Pride** [(v15-43)](# "ref")
@@ -127,7 +132,7 @@ that I had **bestowed** on you
 + our **downfall** comes in 3 parts:
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-7vpzXF-wHko-princess_field.jpg") %> class="outline" -->
 ## 2. Fallen in Pride [(v15-43)](# "ref")
 
 1. **Pride** in Our Beauty [(v15-22)](# "ref")
@@ -157,7 +162,7 @@ and played the **harlot** because of your fame
   + w/o **changing** behaviour
 + but shame is **not** the problem
   + **sin** is
-  + what is our **sin** that we need to change? 
+  + what is our **sin** that we need to change?
 + pride in **image**: beautiful
   + **house**, garden, wife, kids
   + kids doing well in **school**
@@ -211,7 +216,7 @@ by causing them to pass through the **fire**.
   + pursue comfort + success
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-7vpzXF-wHko-princess_field.jpg") %> class="outline" -->
 ## 2. Fallen in Pride [(v15-43)](# "ref")
 
 1. Pride in Our Beauty [(v15-22)](# "ref")
@@ -248,7 +253,7 @@ yet even with this you were not **satisfied**
 + **addiction**: unable to satisfy
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-7vpzXF-wHko-princess_field.jpg") %> class="outline" -->
 ## 2. Fallen in Pride [(v15-43)](# "ref")
 
 1. Pride in Our Beauty [(v15-22)](# "ref")
@@ -295,7 +300,7 @@ and **expose** your nakedness to them
 1. **Destroyed** by Pursuits [(v35-43)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-7vpzXF-wHko-princess_field.jpg") %> class="outline" -->
 ## The Adopted Princess [(Ez16)](# "ref")
 1. Flourishing Under Covenant [(v1-14)](# "ref")
 1. Fallen in Pride [(v15-43)](# "ref")
@@ -377,4 +382,4 @@ and you **forgave** the iniquity of my sin.
   + Christ has **atoned**
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
+<!-- .slide: <%= bg("unsplash-7vpzXF-wHko-princess_field.jpg") %> class="empty" -->
