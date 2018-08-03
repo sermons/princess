@@ -44,6 +44,8 @@
   + as though **entitled** to them
 
 ---
+<!-- .slide: <%= bg("unsplash-9SjCXUq_qSE-farm_dirt.jpg") %> -->
+
 On the day you were **born** <br>
 your cord was not **cut**, <br>
 nor were you **washed** with water to cleanse you
@@ -55,6 +57,7 @@ to you out of **compassion** for you,
 but you were **cast out** on the open field
 
 [Ezekiel 16:4,5 (ESV)](# "ref")
+[Uden, Netherlands.  Dylan de Jonge](https://unsplash.com/photos/9SjCXUq_qSE "caption")
 
 >>>
 + **default** condition of mankind:
@@ -71,6 +74,7 @@ but you were **cast out** on the open field
 + what did **God** see?
 
 ---
+<!-- .slide: <%= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> -->
 And when I passed by you <br>
 and saw you **wallowing** in your blood,
 
@@ -78,6 +82,7 @@ I said to you in your blood, ‘**Live!**’<br>
 I said to you in your blood, ‘Live!’
 
 [Ezekiel 16:6 (ESV)](# "ref")
+[Geetanjal Khanna](https://unsplash.com/photos/8CwoHpZe3qE "caption")
 
 >>>
 + "wallow": kick, **trample**
@@ -87,6 +92,7 @@ I said to you in your blood, ‘Live!’
 + grew + **flourished** like plant
 
 ---
+<!-- .slide: <%= bg("unsplash-urfVdTSFKfo-girl_hair_flowers.jpg") %> -->
 You were **adorned** with gold and silver, <br>
 You grew exceedingly **beautiful** <br>
 and advanced to **royalty**.
@@ -99,6 +105,7 @@ for it was perfect through the **splendor** <br>
 that I had **bestowed** on you
 
 [Ezekiel 16:13-14 (ESV)](# "ref")
+[Gdynia, Poland](https://unsplash.com/photos/urfVdTSFKfo "caption")
 
 >>>
 + blessings from God: **home**, family, stability, recognition
@@ -132,7 +139,7 @@ that I had **bestowed** on you
 + our **downfall** comes in 3 parts:
 
 ---
-<!-- .slide: <%= bg("unsplash-7vpzXF-wHko-princess_field.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> class="outline" -->
 ## 2. Fallen in Pride [(v15-43)](# "ref")
 
 1. **Pride** in Our Beauty [(v15-22)](# "ref")
@@ -148,10 +155,12 @@ that I had **bestowed** on you
   + **turn** against us
 
 ---
+<!-- .slide: <%= bg("unsplash-ndsRLeQBlsA-dark_clouds.jpg") %> -->
 But you trusted in your **beauty** <br>
 and played the **harlot** because of your fame
 
 [Ezekiel 16:15 (NASB)](# "ref")
+[Dylan Roberts, Strumble Head Lighthouse, UK](https://unsplash.com/photos/ndsRLeQBlsA "caption")
 
 >>>
 + aside re **slut-shaming**: assumes
@@ -173,6 +182,7 @@ and played the **harlot** because of your fame
 + pursue **gift** rather than **Giver**
 
 ---
+<!-- .slide: <%= bg("unsplash-0Hf3SuP-Muc-diamond_ring.jpg") %> -->
 You also took your beautiful **jewels** <br>
 made of **My gold** and of My silver, <br>
 which I had **given** you,
@@ -181,6 +191,7 @@ and made for yourself male **images** <br>
 that you might play the harlot with them.
 
 [Ezekiel 16:17 (NASB)](# "ref")
+[Anne Edgar](https://unsplash.com/photos/0Hf3SuP-Muc "caption")
 
 >>>
 + forgot where blessings come from
@@ -193,11 +204,13 @@ that you might play the harlot with them.
   + also the next **generation**:
 
 ---
+<!-- .slide: <%= bg("unsplash-C2a4RGapd8s-light_paint_circle_fire.jpg") %> -->
 You slaughtered **My children** <br>
 and offered them up to **idols** <br>
 by causing them to pass through the **fire**.
 
 [Ezekiel 16:21 (NASB)](# "ref")
+[Peter John Maridable](https://unsplash.com/photos/C2a4RGapd8s "caption")
 
 >>>
 + kids are **God's** kids, not mine
@@ -216,7 +229,7 @@ by causing them to pass through the **fire**.
   + pursue comfort + success
 
 ---
-<!-- .slide: <%= bg("unsplash-7vpzXF-wHko-princess_field.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> class="outline" -->
 ## 2. Fallen in Pride [(v15-43)](# "ref")
 
 1. Pride in Our Beauty [(v15-22)](# "ref")
@@ -226,6 +239,7 @@ by causing them to pass through the **fire**.
 <!-- .element: style="list-style-type: upper-alpha" -->
 
 ---
+<!-- .slide: <%= bg("unsplash-Wa-gS5R58gA-group_silhouette.jpg") %> -->
 You made your beauty **abominable**, <br>
 and you spread your legs to every **passer-by** <br>
 to multiply your harlotry.
@@ -238,6 +252,7 @@ the **Egyptians**, ... Philistines, <br>
 yet even with this you were not **satisfied**
 
 [Ezekiel 16:25-29 (NASB)](# "ref")
+[Piha Beach, NZ. Tim Marshall](https://unsplash.com/photos/Wa-gS5R58gA "caption")
 
 >>>
 + beauty **unfulfilling** if no **beholder**
@@ -253,7 +268,7 @@ yet even with this you were not **satisfied**
 + **addiction**: unable to satisfy
 
 ---
-<!-- .slide: <%= bg("unsplash-7vpzXF-wHko-princess_field.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> class="outline" -->
 ## 2. Fallen in Pride [(v15-43)](# "ref")
 
 1. Pride in Our Beauty [(v15-22)](# "ref")
@@ -263,6 +278,7 @@ yet even with this you were not **satisfied**
 <!-- .element: style="list-style-type: upper-alpha" -->
 
 ---
+<!-- .slide: <%= bg("unsplash-mKA3VavSuaI-dark_mtns.jpg") %> -->
 Behold, I will gather all your **lovers** <br>
 with whom you took pleasure,
 
@@ -274,6 +290,7 @@ from every direction <br>
 and **expose** your nakedness to them
 
 [Ezekiel 16:37 (NASB)](# "ref")
+[Silverthorne, CO. Nathan Anderson](https://unsplash.com/photos/mKA3VavSuaI "caption")
 
 >>>
 + **lovers**: those I crave **affirmation** from
@@ -312,6 +329,7 @@ and **expose** your nakedness to them
   + His **covenant** of love:
 
 ---
+<!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> -->
 Yet I will **remember** my covenant <br>
 with you in the days of your youth,
 
@@ -319,6 +337,7 @@ and I will **establish** for you <br>
 an everlasting covenant.
 
 [Ezekiel 16:60 (ESV)](# "ref")
+[Mark Basarab](https://unsplash.com/photos/1k5Qq4YQM0g "caption")
 
 >>>
 + not bc we are **worthy**
@@ -328,6 +347,7 @@ an everlasting covenant.
   + constant **theme** in Ezekiel:
 
 ---
+<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
 And you shall **know** that I am the LORD,
 
 [63](#" ref")
@@ -339,6 +359,7 @@ when I **atone** for you <br>
 for all that you have done
 
 [Ezekiel 16:62-63 (ESV)](# "ref")
+[Thailand.  Dominik QN](https://unsplash.com/photos/9gGQvhC4PEY "caption")
 
 >>>
 + remember He is **holy** + faithful
@@ -355,6 +376,7 @@ for all that you have done
 + (Romans 5:8?)
 
 ---
+<!-- .slide: <%= bg("unsplash-Zi8-E3qJ_RM-crying_old_woman.jpg") %> -->
 When I kept **silent**, my bones **wasted away** <br>
 through my groaning all day long.
 
@@ -366,6 +388,7 @@ my transgressions to the Lord,” <br>
 and you **forgave** the iniquity of my sin.
 
 [Psalm 32:3,5 (ESV)](# "ref")
+[Yuriria, Mexico.  Cristian Newman](https://unsplash.com/photos/Zi8-E3qJ_RM "caption")
 
 >>>
 + **confess**: not surprise to God
