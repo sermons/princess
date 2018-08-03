@@ -351,7 +351,6 @@ an everlasting covenant.
 <!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
 And you shall **know** that I am the LORD,
 
-[63](#" ref")
 that you may remember and be **confounded**, <br>
 and never open your mouth again <br>
 because of your **shame**,
