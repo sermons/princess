@@ -147,6 +147,7 @@ that I had **bestowed** on you
 1. **Destroyed** by What We Pursue [(v35-43)](# "ref")
 
 <!-- .element: style="list-style-type: upper-alpha" -->
+[Ukraine. Paul Itkin](https://unsplash.com/photos/xCdFXXoZkJc "caption")
 
 >>>
 1. trust in own **success**
