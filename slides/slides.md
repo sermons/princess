@@ -205,13 +205,13 @@ that you might play the harlot with them.
   + also the next **generation**:
 
 ---
-<!-- .slide: <%= bg("unsplash-C2a4RGapd8s-light_paint_circle_fire.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-lQ1uirYz8qI-smoke_flame.jpg") %> -->
 You slaughtered **My children** <br>
 and offered them up to **idols** <br>
 by causing them to pass through the **fire**.
 
 [Ezekiel 16:21 (NASB)](# "ref")
-[Peter John Maridable](https://unsplash.com/photos/C2a4RGapd8s "caption")
+[Sören Sandbothe](https://unsplash.com/photos/lQ1uirYz8qI "caption")
 
 >>>
 + kids are **God's** kids, not mine
