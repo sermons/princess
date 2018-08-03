@@ -143,18 +143,10 @@ that I had **bestowed** on you
   + **turn** against us
 
 ---
-But you **trusted** in your beauty <br>
+But you trusted in your **beauty** <br>
 and played the **harlot** because of your fame
 
-[17](# "ref")
-You also took your beautiful **jewels** <br>
-made of **My gold** and of My silver, <br>
-which I had **given** you,
-
-and made for yourself male **images** <br>
-that you might play the harlot with them.
-
-[Ezekiel 16:15,17 (NASB)](# "ref")
+[Ezekiel 16:15 (NASB)](# "ref")
 
 >>>
 + pride in **image**: beautiful
@@ -163,10 +155,26 @@ that you might play the harlot with them.
   + on-track to good **career**, work-life
   + always **hospitable**, generous
   + always **happy** + positive
-+ pursue **gift** rather than giver
++ all **good** blessings, but
++ pursue **gift** rather than **Giver**
+
+---
+You also took your beautiful **jewels** <br>
+made of **My gold** and of My silver, <br>
+which I had **given** you,
+
+and made for yourself male **images** <br>
+that you might play the harlot with them.
+
+[Ezekiel 16:17 (NASB)](# "ref")
+
+>>>
++ forgot where blessings come from
+  + forgot where **we** came from
 + **harlot**: exchange priceless **treasure** for base **gain**
   + treasure is **not** the blessings
   + but our **purity** / holiness
+  + our rln w/God
 + not only impacts **selves**,
   + also the next **generation**:
 
