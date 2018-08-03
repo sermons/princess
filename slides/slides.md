@@ -116,7 +116,7 @@ that I had **bestowed** on you
 
 ---
 <!-- .slide: data-background="white" -->
-# Have I mistaken God's **grace** for God's **approval**?
+# Have I mistaken God's **grace** for God's **endorsement**?
 
 >>>
 + yes, we are richly **blessed**
@@ -310,12 +310,12 @@ and **expose** your nakedness to them
 
 ---
 <!-- .slide: data-background="white" -->
-# What God-given **beauty** has become an **idol** to me?
+# What **beauty** has become an **idol** to me?
 
 >>>
-1. **Proud** from Blessings [(v15-22)](# "ref")
-1. **Unsatisfied** in Addiction [(v23-34)](# "ref")
-1. **Destroyed** by Pursuits [(v35-43)](# "ref")
++ **blessings** from God: success, virtue, generosity
++ &rArr; **pride** &rArr; maintain **image**
+  + &rArr; **addiction** &rArr; **destruction**
 
 ---
 <!-- .slide: <%= bg("unsplash-7vpzXF-wHko-princess_field.jpg") %> class="outline" -->
