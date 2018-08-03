@@ -326,6 +326,23 @@ for all that you have done
   + "confounded": **pale**, shame
 
 ---
+When I kept **silent**, my bones **wasted away** <br>
+through my groaning all day long.
+
+I **acknowledged** my sin to you, <br>
+and I did not **cover** my iniquity;
+
+I said, “I will **confess** <br>
+my transgressions to the Lord,” <br>
+and you **forgave** the iniquity of my sin.
+
+[Psalm 32:3,5 (ESV)](# "ref")
+
+>>>
++ **confess**: not surprise to God
+  + (Gr ὁμολογέω) same-word: **ack** the truth
+
+---
 <!-- .slide: data-background="white" -->
 # What has God **forgiven** me of?
 
