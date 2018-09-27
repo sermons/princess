@@ -1,24 +1,12 @@
 <!-- .slide: <%= bg("unsplash-7vpzXF-wHko-princess_field.jpg") %> id="title" -->
 
 # The Adopted Princess
-## Ezekiel 16 (1/5)
+## Ezekiel 16
 [Suchawa, Poland](https://unsplash.com/photos/7vpzXF-wHko "caption")
 
 >>>
 + 22a sins
 + 33:10-20 rotting in our sins: turn + live
-
----
-<!-- .slide: <%= bg("unsplash-sp-p7uuT0tw-dark_forest.jpg") %> id="series" -->
-
-| 1. **What** must I change? | <small>[ch16:](# "ref") *Princess* [(identity)](# "ref")</small> |
-| --- | --- |
-| 2. **Who** will help me? | <small>[ch34:](# "ref") *Shepherds* [(leadership)](# "ref")</small> |
-| 3. **How** do I change? | <small>[ch36:](# "ref") *Wanderers* [(God's work)](# "ref")</small> |
-| 4. Am I beyond **hope**? | <small>[ch37:](# "ref") *Dry Bones* [(new life)](# "ref")</small> |
-| 5. If **others** won't change? | <small>[ch33:](# "ref") *Watchman* [(missions)](# "ref")</small> |
-
-[Bad Pyrmont, Germany.  Sebastian Unrau](https://unsplash.com/photos/sp-p7uuT0tw "caption")
 
 ---
 <!-- .slide: data-background="white" -->
