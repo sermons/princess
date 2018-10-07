@@ -27,7 +27,7 @@
 
 >>>
 + (skip over comparison w/Samaria+Sodom)
-+ first remember who we **are**
++ remember who we **are**
 + take for granted God's **blessings**
   + as though **entitled** to them
 
@@ -350,9 +350,8 @@ for all that you have done
 [Thailand.  Dominik QN](https://unsplash.com/photos/9gGQvhC4PEY "caption")
 
 >>>
-+ remember He is **holy** + faithful
++ know He is **holy** + faithful
   + **just** in His judgments
-    + (kid: "not fair!")
 + Godly **shame**: opposite of proud
   + "confounded": **pale**, shame
 + not **paralysed** by self-**doubt**
@@ -360,8 +359,8 @@ for all that you have done
 + not **revel** in self-**pity**
   + flagellation, atone for **self**
 + not **rejecting** the shame
+  + "ok so I messed up, move on!"
   + **ack** our wrongdoing
-+ (Romans 5:8?)
 
 ---
 <!-- .slide: <%= bg("unsplash-Zi8-E3qJ_RM-crying_old_woman.jpg") %> -->
@@ -381,6 +380,8 @@ and you **forgave** the iniquity of my sin.
 >>>
 + **confess**: not surprise to God
   + (Gr ὁμολογέω) same-word: **ack** the truth
++ point to **God's** holiness + grace
++ (Romans 5:8?)
 
 ---
 <!-- .slide: data-background="white" -->
