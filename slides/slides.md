@@ -10,7 +10,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# **What** must I change?
+# What **wrong** have I done?
 
 [###](#/outline "secret")
 
