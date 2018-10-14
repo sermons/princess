@@ -5,8 +5,11 @@
 [Suchawa, Poland](https://unsplash.com/photos/7vpzXF-wHko "caption")
 
 >>>
-+ 22a sins
-+ 33:10-20 rotting in our sins: turn + live
++ to understand God's **mercy**
++ must understand our **identity**
+  + not what **I** think of myself
+  + not how **others** label us
+  + who my **Creator** says I am
 
 ---
 <!-- .slide: data-background="white" -->
@@ -15,8 +18,13 @@
 [###](#/outline "secret")
 
 >>>
-+ not self-help, own goals, e.g. lose weight
-+ what God **tells** us we need to change
++ I feel I'm a **decent** person
+  + keep **laws** of country
+  + no worse than **others** around me
++ "Christians **judge** too much"
+  + **guilt**-trip, **shame**
++ take for granted God's **blessings**
+  + as though **entitled** to them
 
 ---
 <!-- .slide: <%= bg("unsplash-7vpzXF-wHko-princess_field.jpg") %> id="outline" class="outline" -->
@@ -26,10 +34,12 @@
 1. **Forgiven** in Godly Shame [(v60-63)](# "ref")
 
 >>>
++ **uncomfortable** passage
++ unwanted **orphan**
++ adopted **princess**
++ proud **harlot**
++ humble **betrothed**
 + (skip over comparison w/Samaria+Sodom)
-+ remember who we **are**
-+ take for granted God's **blessings**
-  + as though **entitled** to them
 
 ---
 <!-- .slide: <%= bg("unsplash-9SjCXUq_qSE-farm_dirt.jpg") %> -->
