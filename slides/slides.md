@@ -10,7 +10,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# What **wrong** have I done?
+# How have I **wronged** God?
 
 [###](#/outline "secret")
 
