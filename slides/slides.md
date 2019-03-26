@@ -27,6 +27,26 @@
   + as though **entitled** to them
 
 ---
+The word of the Lord came to me:
+“Son of man, confront Jerusalem
+with her detestable practices and say,
+‘This is what the Sovereign Lord says to Jerusalem: 
+
+Your ancestry and birth
+were in the land of the Canaanites;
+your father was an Amorite
+and your mother a Hittite.
+
+---
+On the day you were born
+your cord was not cut,
+nor were you washed with water to make you clean,
+nor were you rubbed with salt or wrapped in cloths.
+
+No one looked on you with pity or had compassion enough to do any of these things for you. Rather, you were thrown out into the open field, for on the day you were born you were despised.
+
+6 “‘Then I passed by and saw you kicking about in your blood, and as you lay there in your blood I said to you, “Live!”
+---
 <!-- .slide: <%= bg("unsplash-7vpzXF-wHko-princess_field.jpg") %> id="outline" class="outline" -->
 ## The Adopted Princess [(Ez16)](# "ref")
 1. **Flourishing** Under Covenant [(v1-14)](# "ref")
