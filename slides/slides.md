@@ -27,25 +27,43 @@
   + as though **entitled** to them
 
 ---
-The word of the Lord came to me:
-“Son of man, confront Jerusalem
-with her detestable practices and say,
+The word of the Lord came to me: <br>
+“Son of man, confront Jerusalem <br>
+with her detestable practices and say, <br>
 ‘This is what the Sovereign Lord says to Jerusalem: 
 
-Your ancestry and birth
-were in the land of the Canaanites;
-your father was an Amorite
+Your ancestry and birth <br>
+were in the land of the Canaanites; <br>
+your father was an Amorite <br>
 and your mother a Hittite.
 
 ---
-On the day you were born
+On the day you were born <br>
 your cord was not cut,
-nor were you washed with water to make you clean,
-nor were you rubbed with salt or wrapped in cloths.
 
-No one looked on you with pity or had compassion enough to do any of these things for you. Rather, you were thrown out into the open field, for on the day you were born you were despised.
+nor were you washed with water  <br>
+to make you clean,
 
-6 “‘Then I passed by and saw you kicking about in your blood, and as you lay there in your blood I said to you, “Live!”
+nor were you rubbed with salt  <br>
+or wrapped in cloths.
+
+---
+No one looked on you with pity  <br>
+or had compassion enough  <br>
+to do any of these things for you. 
+
+Rather, you were thrown out <br>
+into the open field,  <br>
+for on the day you were born <br>
+you were despised.
+
+---
+[6](# "ref")
+Then I passed by and saw you  <br>
+kicking about in your blood,  <br>
+and as you lay there in your blood  <br>
+I said to you, “Live!”
+
 ---
 <!-- .slide: <%= bg("unsplash-7vpzXF-wHko-princess_field.jpg") %> id="outline" class="outline" -->
 ## The Adopted Princess [(Ez16)](# "ref")
