@@ -153,7 +153,7 @@ that I had **bestowed** on you
 
 ---
 <!-- .slide: data-background="white" -->
-# Have I mistaken God's **grace** for God's **endorsement**?
+# Have I mistaken God's **grace** <br> for God's **endorsement**?
 
 >>>
 + yes, we are richly **blessed**
@@ -179,7 +179,7 @@ that I had **bestowed** on you
 <!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> class="outline" -->
 ## 2. Fallen in Pride [(v15-43)](# "ref")
 
-1. **Pride** in Our Beauty [(v15-22)](# "ref")
+1. **Proud** of Our Beauty [(v15-22)](# "ref")
 1. **Addicted** to Affirmation [(v23-34)](# "ref")
 1. **Destroyed** by What We Pursue [(v35-43)](# "ref")
 
@@ -270,7 +270,7 @@ by causing them to pass through the **fire**.
 <!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> class="outline" -->
 ## 2. Fallen in Pride [(v15-43)](# "ref")
 
-1. Pride in Our Beauty [(v15-22)](# "ref")
+1. Proud of Our Beauty [(v15-22)](# "ref")
 1. **Addicted to Affirmation** [(v23-34)](# "ref")
 1. Destroyed by What We Pursue [(v35-43)](# "ref")
 
@@ -309,7 +309,7 @@ yet even with this you were not **satisfied**
 <!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> class="outline" -->
 ## 2. Fallen in Pride [(v15-43)](# "ref")
 
-1. Pride in Our Beauty [(v15-22)](# "ref")
+1. Proud of Our Beauty [(v15-22)](# "ref")
 1. Addicted to Affirmation [(v23-34)](# "ref")
 1. **Destroyed by What We Pursue** <br>[(v35-43)](# "ref")
 
