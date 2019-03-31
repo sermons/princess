@@ -27,9 +27,12 @@
   + as though **entitled** to them
 
 ---
+[2](# "ref")
 The word of the Lord came to me: <br>
 “Son of man, confront Jerusalem <br>
-with her detestable practices and say, <br>
+with her detestable practices 
+[3](# "ref")
+and say, <br>
 ‘This is what the Sovereign Lord says to Jerusalem: 
 
 Your ancestry and birth <br>
@@ -37,7 +40,10 @@ were in the land of the Canaanites; <br>
 your father was an Amorite <br>
 and your mother a Hittite.
 
+[Ezekiel 16:2-6 (NIV) (p.1/4)](# "ref")
+
 ---
+[4](# "ref")
 On the day you were born <br>
 your cord was not cut,
 
@@ -47,7 +53,10 @@ to make you clean,
 nor were you rubbed with salt  <br>
 or wrapped in cloths.
 
+[Ezekiel 16:2-6 (NIV) (p.2/4)](# "ref")
+
 ---
+[5](# "ref")
 No one looked on you with pity  <br>
 or had compassion enough  <br>
 to do any of these things for you. 
@@ -57,12 +66,16 @@ into the open field,  <br>
 for on the day you were born <br>
 you were despised.
 
+[Ezekiel 16:2-6 (NIV) (p.3/4)](# "ref")
+
 ---
 [6](# "ref")
 Then I passed by and saw you  <br>
 kicking about in your blood,  <br>
 and as you lay there in your blood  <br>
 I said to you, “Live!”
+
+[Ezekiel 16:2-6 (NIV) (p.4/4)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-7vpzXF-wHko-princess_field.jpg") %> id="outline" class="outline" -->
