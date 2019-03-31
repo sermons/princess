@@ -148,6 +148,7 @@ that I had **bestowed** on you
   + virtues: **patience**, generosity, hospit
 + all these were **bestowed** by God
   + not **earned** by own efforts
+  + not bc we did sth *right*
 + **princess**: bc of our Father
 
 ---
@@ -179,7 +180,7 @@ that I had **bestowed** on you
 ## 2. Fallen in Pride [(v15-43)](# "ref")
 
 1. **Pride** in Our Beauty [(v15-22)](# "ref")
-1. Insatiable **Addiction** [(v23-34)](# "ref")
+1. **Addicted** to Affirmation [(v23-34)](# "ref")
 1. **Destroyed** by What We Pursue [(v35-43)](# "ref")
 
 <!-- .element: style="list-style-type: upper-alpha" -->
@@ -270,7 +271,7 @@ by causing them to pass through the **fire**.
 ## 2. Fallen in Pride [(v15-43)](# "ref")
 
 1. Pride in Our Beauty [(v15-22)](# "ref")
-1. **Insatiable Addiction** [(v23-34)](# "ref")
+1. **Addicted to Affirmation** [(v23-34)](# "ref")
 1. Destroyed by What We Pursue [(v35-43)](# "ref")
 
 <!-- .element: style="list-style-type: upper-alpha" -->
@@ -309,7 +310,7 @@ yet even with this you were not **satisfied**
 ## 2. Fallen in Pride [(v15-43)](# "ref")
 
 1. Pride in Our Beauty [(v15-22)](# "ref")
-1. Insatiable Addiction [(v23-34)](# "ref")
+1. Addicted to Affirmation [(v23-34)](# "ref")
 1. **Destroyed by What We Pursue** <br>[(v35-43)](# "ref")
 
 <!-- .element: style="list-style-type: upper-alpha" -->
