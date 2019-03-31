@@ -13,7 +13,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# How have I **wronged** God?
+# Am I a **good** person?
 
 [###](#/outline "secret")
 
@@ -409,7 +409,7 @@ for all that you have done
   + flagellation, atone for **self**
 + not **rejecting** the shame
   + "ok so I messed up, move on!"
-  + **ack** our wrongdoing
++ **ack** our wrongdoing
 
 ---
 <!-- .slide: <%= bg("unsplash-Zi8-E3qJ_RM-crying_old_woman.jpg") %> -->
