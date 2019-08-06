@@ -13,7 +13,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Am I a **good** person?
+# Have I been **unfaithful** to <br> my **first love**?
 
 [###](#/outline "secret")
 
