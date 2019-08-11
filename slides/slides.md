@@ -309,6 +309,7 @@ yet even with this you were not **satisfied**
 + beauty **unfulfilling** if no **beholder**
 + e.g., entertain **guests** so they can
   + admire my **hospitality**
++ e.g., retreat 6am devos by walkway
 + e.g., do church/volunteer work so others
   + affirm my **charity**
 + culture of **busyness**:
@@ -414,7 +415,7 @@ for all that you have done
 >>>
 + know He is **holy** + faithful
   + **just** in His judgments
-+ Godly **shame**: opposite of proud
++ Godly **shame**: opposite of pride
   + "confounded": **pale**, shame
 + not **paralysed** by self-**doubt**
   + **fear** of failing again
