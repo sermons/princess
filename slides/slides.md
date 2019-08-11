@@ -25,8 +25,10 @@
 
 ******
 [2](# "ref")
+<!--
 The word of the Lord came to me: <br>
-“Son of man, confront Jerusalem <br>
+“Son of man, -->
+Confront Jerusalem <br>
 with her detestable practices 
 [3](# "ref")
 and say, <br>
