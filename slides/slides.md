@@ -24,10 +24,10 @@
   + as though **entitled** to them
 
 ******
-[2](# "ref")
-<!--
-The word of the Lord came to me: <br>
+<!-- The word of the Lord came to me: <br>
 “Son of man, -->
+
+[2](# "ref")
 Confront Jerusalem <br>
 with her detestable practices 
 [3](# "ref")
