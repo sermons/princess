@@ -1,5 +1,4 @@
 <!-- .slide: <%= bg("unsplash-7vpzXF-wHko-princess_field.jpg") %> id="title" -->
-
 # The Adopted Princess
 ## Ezekiel 16
 [Suchawa, Poland](https://unsplash.com/photos/7vpzXF-wHko "caption")
@@ -15,8 +14,6 @@
 <!-- .slide: data-background="white" -->
 # Have I been **unfaithful** to <br> my **first love**?
 
-[###](#/outline "secret")
-
 >>>
 + I feel I'm a **decent** person
   + keep **laws** of country
@@ -26,7 +23,7 @@
 + take for granted God's **blessings**
   + as though **entitled** to them
 
----
+******
 [2](# "ref")
 The word of the Lord came to me: <br>
 “Son of man, confront Jerusalem <br>
@@ -42,7 +39,7 @@ and your mother a Hittite.
 
 [Ezekiel 16:2-6 (NIV) (p.1/4)](# "ref")
 
----
+******
 [4](# "ref")
 On the day you were born <br>
 your cord was not cut,
@@ -55,7 +52,7 @@ or wrapped in cloths.
 
 [Ezekiel 16:2-6 (NIV) (p.2/4)](# "ref")
 
----
+******
 [5](# "ref")
 No one looked on you with pity  <br>
 or had compassion enough  <br>
@@ -68,7 +65,7 @@ you were despised.
 
 [Ezekiel 16:2-6 (NIV) (p.3/4)](# "ref")
 
----
+******
 [6](# "ref")
 Then I passed by and saw you  <br>
 kicking about in your blood,  <br>
@@ -214,10 +211,11 @@ and played the **harlot** because of your fame
 [Dylan Roberts, Strumble Head Lighthouse, UK](https://unsplash.com/photos/ndsRLeQBlsA "caption")
 
 >>>
-+ aside re **slut-shaming**: assumes
++ aside: "what's wrong w/prostitution?"
+  + "**slut-shaming**": assumes
   + morality **socially** constructed
   + decide for **self** right/wrong for own sexuality
-  + problem is **shame**, so
+  + decide problem is **shame**, so
   + get **rid** of shame
   + w/o **changing** behaviour
 + but shame is **not** the problem
