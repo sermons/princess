@@ -1,7 +1,7 @@
 # The Adopted Princess (1/5)
 ## Ezekiel 16
 
-[![Build status](https://travis-ci.org/sermons/princess.svg)](https://travis-ci.org/sermons/princess)
+[![Build status](https://api.travis-ci.org/sermons/princess.svg)](https://travis-ci.org/github/sermons/princess)
 [![Node deps](https://david-dm.org/sermons/princess.svg)](https://david-dm.org/sermons/princess)
 [![Node devDeps](https://david-dm.org/sermons/princess/dev-status.svg)](https://david-dm.org/sermons/princess?type=dev)
 
